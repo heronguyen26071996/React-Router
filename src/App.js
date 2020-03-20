@@ -9,7 +9,7 @@ class App extends Component{
     return (
         <Router>
             <div className="App">
-                {/* Menu */}
+                {/* Menu  1212112*/}
                 <Menu />
                 {/* Noi Dung */}
                 <Switch>
